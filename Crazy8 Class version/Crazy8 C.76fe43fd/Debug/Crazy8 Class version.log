@@ -1,0 +1,23 @@
+﻿  Deck.cpp
+C:\Users\migue\Downloads\VGP122_A2_Yepes_Miguel\Crazy8 Class version\Card.h(5,10): error C1083: Cannot open include file: 'Exceptions.h': No such file or directory
+  Card.cpp
+C:\Users\migue\Downloads\VGP122_A2_Yepes_Miguel\Crazy8 Class version\Card.h(5,10): error C1083: Cannot open include file: 'Exceptions.h': No such file or directory
+  main.cpp
+C:\Users\migue\Downloads\VGP122_A2_Yepes_Miguel\Crazy8 Class version\Card.h(5,10): error C1083: Cannot open include file: 'Exceptions.h': No such file or directory
+  Stack.cpp
+C:\Users\migue\Downloads\VGP122_A2_Yepes_Miguel\Crazy8 Class version\Card.h(5,10): error C1083: Cannot open include file: 'Exceptions.h': No such file or directory
+  Player.cpp
+C:\Users\migue\Downloads\VGP122_A2_Yepes_Miguel\Crazy8 Class version\Card.h(5,10): error C1083: Cannot open include file: 'Exceptions.h': No such file or directory
+  Hand.cpp
+C:\Users\migue\Downloads\VGP122_A2_Yepes_Miguel\Crazy8 Class version\Card.h(5,10): error C1083: Cannot open include file: 'Exceptions.h': No such file or directory
+  PlayingCard.cpp
+C:\Users\migue\Downloads\VGP122_A2_Yepes_Miguel\Crazy8 Class version\Card.h(5,10): error C1083: Cannot open include file: 'Exceptions.h': No such file or directory
+  Game.cpp
+C:\Users\migue\Downloads\VGP122_A2_Yepes_Miguel\Crazy8 Class version\Card.h(5,10): error C1083: Cannot open include file: 'Exceptions.h': No such file or directory
+  Crazy8.cpp
+C:\Users\migue\Downloads\VGP122_A2_Yepes_Miguel\Crazy8 Class version\Card.h(5,10): error C1083: Cannot open include file: 'Exceptions.h': No such file or directory
+  StackCreation.cpp
+C:\Users\migue\Downloads\VGP122_A2_Yepes_Miguel\Crazy8 Class version\Card.h(5,10): error C1083: Cannot open include file: 'Exceptions.h': No such file or directory
+  Match.cpp
+C:\Users\migue\Downloads\VGP122_A2_Yepes_Miguel\Crazy8 Class version\Card.h(5,10): error C1083: Cannot open include file: 'Exceptions.h': No such file or directory
+  Generating Code...

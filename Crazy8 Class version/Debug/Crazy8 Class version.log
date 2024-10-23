@@ -1,0 +1,6 @@
+﻿  Player.cpp
+  PlayingCard.cpp
+  Stack.cpp
+  Generating Code...
+C:\Users\migue\source\repos\Crazy8 Class version\Stack.cpp(15): warning C4715: 'Stack::getTopCard': not all control paths return a value
+  Crazy8 Class version.vcxproj -> C:\Users\migue\source\repos\Crazy8 Class version\Debug\Crazy8 Class version.exe
